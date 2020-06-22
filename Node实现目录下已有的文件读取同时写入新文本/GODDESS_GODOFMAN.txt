@@ -1,0 +1,4 @@
+GODDESS.txt的文件内容如下：
+{"Name":"朱茵","Sex":"女","Age":"49","Birthday":"1971-10-25"}
+GODOFMAN.txt的文件内容如下：
+{"Name":"周星驰","Sex":"男","Age":"58","Birthday":"1962-6-22",}

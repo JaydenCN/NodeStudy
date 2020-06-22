@@ -1,0 +1,14 @@
+Url {
+  protocol: 'https:',
+  slashes: true,
+  auth: null,
+  host: 'sale.vmall.com',
+  port: null,
+  hostname: 'sale.vmall.com',
+  hash: null,
+  search: '?cid=10618',
+  query: 'cid=10618',
+  pathname: '/618.html',
+  path: '/618.html?cid=10618',
+  href: 'https://sale.vmall.com/618.html?cid=10618'
+}
